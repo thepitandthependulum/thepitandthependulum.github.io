@@ -1,0 +1,13 @@
+ section#contact {
+    background-color: #222;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h3.section-subheading.text-muted {
+    color: #fed136;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    margin: 20px;
+}
+p.contact {
+    color: #fed;
+}
