@@ -3,7 +3,7 @@
     background-position: center;
     background-repeat: no-repeat;
 }
-h3.section-subheading.text-muted {
+h3.section-subheading.text-muted.inverted {
     color: #fed136;
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     margin: 20px;
