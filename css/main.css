@@ -11,3 +11,7 @@ h3.section-subheading.text-muted.invert{
 p.contact {
     color: #fed;
 }
+.team-member img{
+ max-height: 200px;
+ max-width: 200px;
+}
